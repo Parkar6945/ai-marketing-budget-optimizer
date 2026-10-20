@@ -1,0 +1,10 @@
+{
+  "name": "ai-marketing-budget-optimizer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-driven system to optimize marketing budgets using Gemini",
+  "dependencies": {
+    "@google/genai": "^2.3.0",
+    "express": "^5.2.1"
+  }
+}
